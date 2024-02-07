@@ -16,7 +16,7 @@ class WindowMain(QMainWindow, form_class):
         self.setupUi(self)
 
         #여기에 시그널, 설정
-        print(__file__)
+        print("test")
 
     #여기에 함수 설정
 
